@@ -1,7 +1,7 @@
 ---
 title: "TIL"
 layout: category
-permalink: /categories/til/
+permalink: /categories/categories1ß/
 author_profile: true
 taxonomy: Categories1
 sidebar:

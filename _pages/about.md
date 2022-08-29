@@ -14,6 +14,6 @@ comments: false
  <a href="" target="_blank"><img src="https://img.shields.io/badge/blog-181717?style=flat-square&logo=bluelogoColor=white"/></a>
    
 ### Tool   
-<img src="https://img.shields.io/badge/Github-#181717?style=for-the-badge&logo=Github&logoColor=black">
+<img src="https://img.shields.io/badge/Github-#181717?style=for-the-badge&logo=GitHub&logoColor=black">
 
 

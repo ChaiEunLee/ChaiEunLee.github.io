@@ -19,7 +19,7 @@ minimal_mistakes_skin: "plum" # "default" "air", "aqua", ...
 
 # Site Settings
 locale: "ko-KR" #"en-US"
-title: "Devlog" # 상단 헤더에 보이는 블로그 명
+title: "Devlog-ing" # 상단 헤더에 보이는 블로그 명
 title_separator: "&#124;"
 subtitle: # site tagline that appears below site title in masthead
 name: "Chai" # 블로그 닉네임 설정
@@ -30,7 +30,7 @@ repository: "ChaiEunLee/ChaiEunLee.github.io" # GitHub Repo 이름
 teaser: #
 
 # logo                     : # 블로그명 앞에 로고 추가하고 싶을 경우 사용
-masthead_title: "Devlog-ing"# overrides the website title displayed in the masthead, use " " for no title
+masthead_title: "Devlog-ing" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
 comments:
@@ -280,6 +280,5 @@ defaults:
       comments: true
       # share: true
       related: true
-    #  sidebar_main: true
       sidebar:
         nav: "categories"

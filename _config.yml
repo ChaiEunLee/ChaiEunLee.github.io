@@ -100,7 +100,7 @@ analytics:
 author:
   name: "검은사슴뿔버섯" # 블로그 닉네임
   avatar: "/assets/images/meee.png" # 블로그 프로필 사진
-  bio              : "데이터사이언스를 공부하고 있습니다."
+  #bio              : "데이터사이언스를 공부하고 있습니다."
   # location         : "Seoul, Korea"
   # email            : "youremailhere@xxxxxx.com"
 

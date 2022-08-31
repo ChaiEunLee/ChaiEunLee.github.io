@@ -7,7 +7,7 @@ categories:
 tags:
   - [python, tag2]
 
-permalink: /dailycoding/1_입출력과사칙연산/
+permalink: /dailycoding/post-name-here/
 
 toc: true
 toc_sticky: true

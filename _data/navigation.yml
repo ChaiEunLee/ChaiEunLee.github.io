@@ -20,7 +20,7 @@ main:
 categories:
   - title: "TIL"
     url: /categories/til/
-  - title: "일상코딩"
+  - title: "Dailycoding"
     url: /categories/dailycoding/
   - title: "C++"
     url: /categories/c++/

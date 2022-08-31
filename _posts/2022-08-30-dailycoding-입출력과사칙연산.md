@@ -1,6 +1,6 @@
 ---
 title: "[백준] 1. 입출력과 사칙연산"
-excerpt: "2557_Hello World"
+excerpt: "1단계 전체 문제"
 
 categories:
   - dailycoding

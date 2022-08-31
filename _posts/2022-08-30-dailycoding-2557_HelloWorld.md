@@ -7,7 +7,7 @@ categories:
 tags:
   - [tag1, tag2]
 
-permalink: /dailycoding/1_입출력과 사칙연산_2557
+permalink: /dailycoding/1_입출력과 사칙연산_2557/
 
 toc: true
 toc_sticky: true

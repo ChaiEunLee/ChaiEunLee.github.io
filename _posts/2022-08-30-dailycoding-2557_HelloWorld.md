@@ -12,12 +12,16 @@ permalink: /dailycoding/1_입출력과 사칙연산_2557
 toc: true
 toc_sticky: true
 
-date = new Date().toLocaleDateString();
-date: document.write(date);
-last_modified_at: Date()
+#date = new Date().toLocaleDateString();
+#date: document.write(date);
+#last_modified_at: Date()
+date = 2022-08-31
+last_modified_at : 2022-08-31
 ---
 
 ## :heart 1. 입출력과 사칙연산 - 2557_Hello World
 
-'''bash
+```python
+Hello world
+```
 

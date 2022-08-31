@@ -12,8 +12,9 @@ permalink: /dailycoding/post-name-here/
 toc: true
 toc_sticky: true
 
-date = new Date().toLocaleDateString();
-date: document.write(date);
+#date = new Date().toLocaleDateString();
+#date: document.write(date);
+date: 2022-08-31
 last_modified_at: Date()
 ---
 

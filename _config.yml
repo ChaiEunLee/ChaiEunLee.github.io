@@ -282,3 +282,17 @@ defaults:
       related: true
       sidebar:
         nav: "categories"
+
+    - scope:
+      path: ""
+      type: posts
+    values:
+      layout: home
+      author_profile: true
+      read_time: #true
+      show_date: true
+      comments: true
+      # share: true
+      related: true
+      sidebar:
+        nav: "categories"

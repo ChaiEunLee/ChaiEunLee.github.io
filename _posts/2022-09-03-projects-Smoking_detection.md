@@ -13,7 +13,7 @@ toc: true
 toc_sticky: true
 
 date: 2022-09-03
-last_modified_at: 2022-09-04
+last_modified_at: 2022-09-16
 ---
 
 # 정리해보기   
@@ -46,3 +46,6 @@ Input -> global maximum pooling & global average pooling -> add F1 & F2 -> 1X1 C
 <img src = "/Users/ce/ChaiEunLee.github.io/assets/images/projects_smoke_detection_0.png">
 </p>
 
+
+> ## 3. Model Design   
+yolov5, 2번의 detect

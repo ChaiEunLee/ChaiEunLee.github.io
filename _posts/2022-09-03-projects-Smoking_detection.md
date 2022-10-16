@@ -42,9 +42,11 @@ last_modified_at: 2022-09-20
 
 * Why vision?
 
-* Why Object Detection? What is better than smoke detector?
+* Why Object Detection? What is better than smoke detector?     
+더 넓은 범위 사용 가능하며 흡연을 시작한 후 탐지를 하는 smoke detector와는 다르게 흡연 전 경고를 줌으로써 예방의 효과가 있다.   
 
 * Why Edge Device?
 
-> ## 3. Model Design   
-
+> ## 3. Model Design    
+Step 1.    
+흡연을 준비하는 자세를 탐지(threshold 낮게 탐지)    

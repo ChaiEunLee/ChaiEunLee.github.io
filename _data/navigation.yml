@@ -20,8 +20,8 @@ main:
 categories:
   - title: "TIL"
     url: /categories/til/
-  - title: "Dailycoding"
-    url: /categories/dailycoding/
+  - title: "Python"
+    url: /categories/python/
   - title: "C++"
     url: /categories/c++/
   - title: "Projects"

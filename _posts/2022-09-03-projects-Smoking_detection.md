@@ -18,9 +18,9 @@ last_modified_at: 2022-09-20
 
 # 정리해보기   
 
-> ## 1. Introduction   
+> ## 1. Motivation  
 
-* **왜 smoke detection이 중요한가?**   
+* **Why smoke detection is important?**   
 2022년 8월 폭우로 인한 침수 원인의 일부는 하수구에 버려진 담배꽁초 때문이었다. 그리고 발전소 같이 화재에 민감한 장소에서 담뱃불은 큰 화재로 번질 수 있는 위험성을 가지고 있다. 따라서 흡연을 하기 전에 흡연감지를 통해서 이러한 문제를 예방할 수 있다.     
 
 
@@ -38,15 +38,25 @@ last_modified_at: 2022-09-20
 
 **Egde Device를 통해서 실시간으로 흡연을 할거라고 Object Detection을 진행하여 경고를 주는 시스템을 만들었다.**
 
-> ## 2. Model Building   
-
-* Why vision?
+> ## 2. System Overview  
+* Why vision?    
+As micro hardware technologies has been developed, we are able to receive high quality images with smaller cameras. That would be great benefit to us.     
 
 * Why Object Detection? What is better than smoke detector?     
-더 넓은 범위 사용 가능하며 흡연을 시작한 후 탐지를 하는 smoke detector와는 다르게 흡연 전 경고를 줌으로써 예방의 효과가 있다.   
+It can detect specific movement/object fast and prevent before smoking starts.
 
-* Why Edge Device?
+* Why Edge Device?    
+It can be used widely in various places with less social/technical entry barrier.   
 
-> ## 3. Model Design    
-Step 1.    
-흡연을 준비하는 자세를 탐지(threshold 낮게 탐지)    
+## 3. Model Design
+Step 1.     
+
+![Alt text] /Users/ce/ChaiEunLee.github.io/assets/images/inposts/smokingdetection_modeldesign.png
+
+## 4. Data Preperation
+
+## 5. Challenges
+
+## 6. Results
+
+## 7. Conclusion

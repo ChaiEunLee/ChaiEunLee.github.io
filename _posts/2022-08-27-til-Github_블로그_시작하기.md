@@ -25,7 +25,7 @@ last_modified_at: 2022-09-23
 2021년 중반부터 인증에 token이 사용될 것이라는 github의 공지가 떴다.   
 2021년 중반 이전에 작성된 블로그들을 보면서 만들고 있었기에 예상치 못한 오류였다.   
 **해결방법**   
- github 홈페이지에서 token 만들기 (참고한 링크 : )   
+ github 홈페이지에서 token 만들기 (참고한 링크 : https://hyeo-noo.tistory.com/184)   
    
 # 2. Not empty Error   
     

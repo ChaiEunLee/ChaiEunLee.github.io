@@ -3,11 +3,11 @@ title: "[백준] 1. 입출력과 사칙연산"
 excerpt: "1단계 전체 문제"
 
 categories:
-  - dailycoding
+  - python
 tags:
   - [python, tag2]
 
-permalink: /dailycoding/post-name-here/
+permalink: /python/baekjoon1/
 
 toc: true
 toc_sticky: true

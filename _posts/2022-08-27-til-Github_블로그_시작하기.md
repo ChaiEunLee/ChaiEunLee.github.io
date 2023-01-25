@@ -3,11 +3,11 @@ title: "[Github] Github 블로그 시작하기"
 excerpt: "Start"
 
 categories:
-  - dailycoding
+  - til
 tags:
   - [tag1, tag2]
 
-permalink: /dailycoding/post-name-here/
+permalink: /til/githubstart/
 
 toc: true
 toc_sticky: true
